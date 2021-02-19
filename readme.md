@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e6529cda-5234-40da-b5d5-0b82b7cec095/deploy-status)](https://app.netlify.com/sites/serene-rosalind-4c65d2/deploys)
-
 # Made with Next.js Notion Starter Kit
 
 > The perfect starter kit for building websites with Next.js and Notion.
