@@ -43,9 +43,11 @@ module.exports = {
   // any pages defined here will override their default URL paths
   // example:
   //
-  // pageUrlOverrides: {
-  //   '/foo': '067dd719a912471ea9a3ac10710e7fdf',
-  //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
-  // }
-  pageUrlOverrides: null
+  pageUrlOverrides: {
+    '/vinovest': 'fb2020bc7f0845a9b501ec86592d2021',
+    '/indeed': 'd077ba638b3f48d396d5e77387e2e77c',
+    '/potion-pages': '25e6590cf4d54efd9e8e4bd9345bfac3',
+    '/fitz': '9de95bd66f2e403c8a8a30c197fa3f12',
+    '/svelte-before-react': 'adfb73b0770141c198ea675635b6c837'
+  }
 }
